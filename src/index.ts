@@ -2697,6 +2697,7 @@ export const words = [
 ];
 
 export const guessable = [
+  ...words,
   "aahed",
   "aalii",
   "aargh",

@@ -1,6 +1,6 @@
 {
   "name": "fivebysix-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/fivebysix-words.cjs",
   "module": "./dist/fivebysix-words.mjs",
   "exports": {
